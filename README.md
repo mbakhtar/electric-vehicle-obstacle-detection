@@ -5,7 +5,7 @@
 
 This repository can be added as an **extension** in MakeCode.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* open [Electric Vehicle Obstacle Detection Tutorial](https://makecode.microbit.org/#tutorial:github:mbakhtar/electric-vehicle-obstacle-detection/ev-obs-detec)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/mbakhtar/electric-vehicle-obstacle-detection** and import
